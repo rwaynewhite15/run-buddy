@@ -1,4 +1,4 @@
 # run-buddy
 
-*Coding Bootcamp Challange 1*
+Module 1: HTML, CSS, and Git
 
