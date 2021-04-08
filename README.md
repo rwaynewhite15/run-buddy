@@ -1,5 +1,4 @@
 # run-buddy
-#**Run Buddy**#
 
-Coding Bootcamp Challange 1
+*Coding Bootcamp Challange 1*
 
