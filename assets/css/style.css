@@ -154,7 +154,7 @@ section {
 .trainers {
     text-align: center;
     }
-article.trainer {
+.trainer {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
@@ -165,7 +165,7 @@ article.trainer {
     width: 35%;
     float: left;
     }  
-div.trainer-bio {
+.trainer-bio {
     padding: 35px;
     float: left;
     width: 65%;
